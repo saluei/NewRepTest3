@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Test Change version 3
+                    server change
                 </div>
 
                 <div class="links">
